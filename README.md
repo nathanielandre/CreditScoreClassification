@@ -41,21 +41,19 @@ By automating this process with a machine learning model, the company can signif
 <a href="https://www.brex.com/resources/what-is-business-credit-score">JUSTIFICATION 3</a>
 
 ## USAGE
+```
 Loan Approval and Risk Assessment
-
 The machine learning model helps the company evaluate the risk of lending to individuals by categorizing them based on their credit scores.
 
 Interest Rates
-
 Individuals with higher credit scores get better loan terms, while those with lower scores are seen as riskier and may face higher interest rates.
 
 Personalized Financial Offerings
-
 The model lets the company offer customized financial products, like loans or credit cards, with terms based on each customer's credit score. Higher scores lead to better offers, while lower scores may require higher rates or extra security.
 
 Profitability
-
 By categorizing customers, the company can manage its portfolio more effectively. They can focus on offering high-value services to customers with good credit, while also managing the risk associated with those who have poor credit.
+```
 
 ## Techniques Used
 - Exploratory Data Analysis (EDA): Conducted an analysis of the dataset to understand distributions, correlations, and potential issues in the data.
