@@ -1,6 +1,9 @@
 # Credit Score Classification
 ### This project aims to develop a machine learning model to categorize individuals into credit score brackets (Good, Standard, Poor), enhancing the loan approval process and improving risk assessment. The model utilizes various classification techniques and provides a reliable solution for smarter lending decisions.
 
+[View the presentation as PDF](CreditScoreClassification.pdf)
+
+
 ## Dataset Source
 ```
 The dataset is taken from kaggle.
